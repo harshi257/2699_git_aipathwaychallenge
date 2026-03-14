@@ -8,7 +8,8 @@ AI-powered wind energy analytics platform built on BDH physics model + Groq LLM 
 3. RAG over SSE Documents — the LLM is connected to a vector database of SSE's own annual reports, TCFD disclosures, and ESG documents. So when it writes a report or answers a question, it references SSE's actual corporate commitments and targets, not generic knowledge.
 The result is a platform that streams live model data, stores 2 years of AI-written monthly reports, and lets anyone ask questions to an analyst that knows both the live wind data and SSE's corporate strategy.
 ---
-
+## Demo Link 
+https://kriti-2699-1czf.vercel.app/
 ## What This Does
 
 - **Live Stream** — BDH model predictions vs actuals across 84 weather features, updated every hour
